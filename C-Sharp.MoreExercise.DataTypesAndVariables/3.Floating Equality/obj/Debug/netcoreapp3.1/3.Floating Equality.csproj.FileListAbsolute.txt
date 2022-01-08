@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\3.Floating Equality\bin\Debug\netcoreapp3.1\3.Floating Equality.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\3.Floating Equality\bin\Debug\netcoreapp3.1\3.Floating Equality.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\3.Floating Equality\bin\Debug\netcoreapp3.1\3.Floating Equality.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\3.Floating Equality\bin\Debug\netcoreapp3.1\3.Floating Equality.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\3.Floating Equality\bin\Debug\netcoreapp3.1\3.Floating Equality.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\3.Floating Equality\bin\Debug\netcoreapp3.1\3.Floating Equality.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\3.Floating Equality\obj\Debug\netcoreapp3.1\3.Floating Equality.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\3.Floating Equality\obj\Debug\netcoreapp3.1\3.Floating Equality.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\3.Floating Equality\obj\Debug\netcoreapp3.1\3.Floating Equality.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\3.Floating Equality\obj\Debug\netcoreapp3.1\3.Floating Equality.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\3.Floating Equality\obj\Debug\netcoreapp3.1\3.Floating Equality.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\3.Floating Equality\obj\Debug\netcoreapp3.1\3.Floating Equality.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\3.Floating Equality\obj\Debug\netcoreapp3.1\3.Floating Equality.genruntimeconfig.cache

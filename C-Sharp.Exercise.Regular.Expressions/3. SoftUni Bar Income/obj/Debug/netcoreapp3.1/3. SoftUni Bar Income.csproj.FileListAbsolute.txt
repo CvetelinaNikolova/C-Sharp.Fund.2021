@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\3. SoftUni Bar Income\bin\Debug\netcoreapp3.1\3. SoftUni Bar Income.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\3. SoftUni Bar Income\bin\Debug\netcoreapp3.1\3. SoftUni Bar Income.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\3. SoftUni Bar Income\bin\Debug\netcoreapp3.1\3. SoftUni Bar Income.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\3. SoftUni Bar Income\bin\Debug\netcoreapp3.1\3. SoftUni Bar Income.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\3. SoftUni Bar Income\bin\Debug\netcoreapp3.1\3. SoftUni Bar Income.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\3. SoftUni Bar Income\bin\Debug\netcoreapp3.1\3. SoftUni Bar Income.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\3. SoftUni Bar Income\obj\Debug\netcoreapp3.1\3. SoftUni Bar Income.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\3. SoftUni Bar Income\obj\Debug\netcoreapp3.1\3. SoftUni Bar Income.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\3. SoftUni Bar Income\obj\Debug\netcoreapp3.1\3. SoftUni Bar Income.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\3. SoftUni Bar Income\obj\Debug\netcoreapp3.1\3. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\3. SoftUni Bar Income\obj\Debug\netcoreapp3.1\3. SoftUni Bar Income.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\3. SoftUni Bar Income\obj\Debug\netcoreapp3.1\3. SoftUni Bar Income.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\3. SoftUni Bar Income\obj\Debug\netcoreapp3.1\3. SoftUni Bar Income.genruntimeconfig.cache

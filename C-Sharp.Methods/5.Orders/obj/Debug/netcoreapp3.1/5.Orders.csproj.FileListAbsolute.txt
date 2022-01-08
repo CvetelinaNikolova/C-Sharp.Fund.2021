@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\5.Orders\bin\Debug\netcoreapp3.1\5.Orders.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\5.Orders\bin\Debug\netcoreapp3.1\5.Orders.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\5.Orders\bin\Debug\netcoreapp3.1\5.Orders.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\5.Orders\bin\Debug\netcoreapp3.1\5.Orders.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\5.Orders\bin\Debug\netcoreapp3.1\5.Orders.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\5.Orders\bin\Debug\netcoreapp3.1\5.Orders.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\5.Orders\obj\Debug\netcoreapp3.1\5.Orders.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\5.Orders\obj\Debug\netcoreapp3.1\5.Orders.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\5.Orders\obj\Debug\netcoreapp3.1\5.Orders.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\5.Orders\obj\Debug\netcoreapp3.1\5.Orders.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\5.Orders\obj\Debug\netcoreapp3.1\5.Orders.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\5.Orders\obj\Debug\netcoreapp3.1\5.Orders.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\5.Orders\obj\Debug\netcoreapp3.1\5.Orders.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\4. Raw Data\bin\Debug\netcoreapp3.1\4. Raw Data.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\4. Raw Data\bin\Debug\netcoreapp3.1\4. Raw Data.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\4. Raw Data\bin\Debug\netcoreapp3.1\4. Raw Data.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\4. Raw Data\bin\Debug\netcoreapp3.1\4. Raw Data.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\4. Raw Data\bin\Debug\netcoreapp3.1\4. Raw Data.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\4. Raw Data\bin\Debug\netcoreapp3.1\4. Raw Data.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\4. Raw Data\obj\Debug\netcoreapp3.1\4. Raw Data.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\4. Raw Data\obj\Debug\netcoreapp3.1\4. Raw Data.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\4. Raw Data\obj\Debug\netcoreapp3.1\4. Raw Data.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\4. Raw Data\obj\Debug\netcoreapp3.1\4. Raw Data.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\4. Raw Data\obj\Debug\netcoreapp3.1\4. Raw Data.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\4. Raw Data\obj\Debug\netcoreapp3.1\4. Raw Data.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\4. Raw Data\obj\Debug\netcoreapp3.1\4. Raw Data.genruntimeconfig.cache

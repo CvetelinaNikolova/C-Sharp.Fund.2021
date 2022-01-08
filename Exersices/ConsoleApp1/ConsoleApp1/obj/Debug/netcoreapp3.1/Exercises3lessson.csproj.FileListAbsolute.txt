@@ -1,0 +1,13 @@
+E:\Projects.C#\Exercises\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exercises3lessson.exe
+E:\Projects.C#\Exercises\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exercises3lessson.deps.json
+E:\Projects.C#\Exercises\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exercises3lessson.runtimeconfig.json
+E:\Projects.C#\Exercises\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exercises3lessson.runtimeconfig.dev.json
+E:\Projects.C#\Exercises\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exercises3lessson.dll
+E:\Projects.C#\Exercises\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exercises3lessson.pdb
+E:\Projects.C#\Exercises\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exercises3lessson.csproj.AssemblyReference.cache
+E:\Projects.C#\Exercises\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exercises3lessson.AssemblyInfoInputs.cache
+E:\Projects.C#\Exercises\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exercises3lessson.AssemblyInfo.cs
+E:\Projects.C#\Exercises\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exercises3lessson.csproj.CoreCompileInputs.cache
+E:\Projects.C#\Exercises\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exercises3lessson.dll
+E:\Projects.C#\Exercises\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exercises3lessson.pdb
+E:\Projects.C#\Exercises\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exercises3lessson.genruntimeconfig.cache

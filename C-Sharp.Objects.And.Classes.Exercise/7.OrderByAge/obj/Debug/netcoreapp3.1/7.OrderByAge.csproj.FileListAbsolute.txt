@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes.Exercise\7.OrderByAge\bin\Debug\netcoreapp3.1\7.OrderByAge.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes.Exercise\7.OrderByAge\bin\Debug\netcoreapp3.1\7.OrderByAge.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes.Exercise\7.OrderByAge\bin\Debug\netcoreapp3.1\7.OrderByAge.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes.Exercise\7.OrderByAge\bin\Debug\netcoreapp3.1\7.OrderByAge.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes.Exercise\7.OrderByAge\bin\Debug\netcoreapp3.1\7.OrderByAge.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes.Exercise\7.OrderByAge\bin\Debug\netcoreapp3.1\7.OrderByAge.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes.Exercise\7.OrderByAge\obj\Debug\netcoreapp3.1\7.OrderByAge.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes.Exercise\7.OrderByAge\obj\Debug\netcoreapp3.1\7.OrderByAge.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes.Exercise\7.OrderByAge\obj\Debug\netcoreapp3.1\7.OrderByAge.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes.Exercise\7.OrderByAge\obj\Debug\netcoreapp3.1\7.OrderByAge.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes.Exercise\7.OrderByAge\obj\Debug\netcoreapp3.1\7.OrderByAge.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes.Exercise\7.OrderByAge\obj\Debug\netcoreapp3.1\7.OrderByAge.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes.Exercise\7.OrderByAge\obj\Debug\netcoreapp3.1\7.OrderByAge.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\2.Message\bin\Debug\netcoreapp3.1\2.Message.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\2.Message\bin\Debug\netcoreapp3.1\2.Message.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\2.Message\bin\Debug\netcoreapp3.1\2.Message.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\2.Message\bin\Debug\netcoreapp3.1\2.Message.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\2.Message\bin\Debug\netcoreapp3.1\2.Message.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\2.Message\bin\Debug\netcoreapp3.1\2.Message.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\2.Message\obj\Debug\netcoreapp3.1\2.Message.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\2.Message\obj\Debug\netcoreapp3.1\2.Message.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\2.Message\obj\Debug\netcoreapp3.1\2.Message.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\2.Message\obj\Debug\netcoreapp3.1\2.Message.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\2.Message\obj\Debug\netcoreapp3.1\2.Message.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\2.Message\obj\Debug\netcoreapp3.1\2.Message.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\2.Message\obj\Debug\netcoreapp3.1\2.Message.genruntimeconfig.cache

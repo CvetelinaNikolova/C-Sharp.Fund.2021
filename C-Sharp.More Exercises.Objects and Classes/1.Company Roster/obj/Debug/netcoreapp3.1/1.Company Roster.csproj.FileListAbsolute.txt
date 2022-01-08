@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\1.Company Roster\bin\Debug\netcoreapp3.1\1.Company Roster.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\1.Company Roster\bin\Debug\netcoreapp3.1\1.Company Roster.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\1.Company Roster\bin\Debug\netcoreapp3.1\1.Company Roster.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\1.Company Roster\bin\Debug\netcoreapp3.1\1.Company Roster.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\1.Company Roster\bin\Debug\netcoreapp3.1\1.Company Roster.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\1.Company Roster\bin\Debug\netcoreapp3.1\1.Company Roster.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\1.Company Roster\obj\Debug\netcoreapp3.1\1.Company Roster.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\1.Company Roster\obj\Debug\netcoreapp3.1\1.Company Roster.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\1.Company Roster\obj\Debug\netcoreapp3.1\1.Company Roster.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\1.Company Roster\obj\Debug\netcoreapp3.1\1.Company Roster.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\1.Company Roster\obj\Debug\netcoreapp3.1\1.Company Roster.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\1.Company Roster\obj\Debug\netcoreapp3.1\1.Company Roster.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\1.Company Roster\obj\Debug\netcoreapp3.1\1.Company Roster.genruntimeconfig.cache

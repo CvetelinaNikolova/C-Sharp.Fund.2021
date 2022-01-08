@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\4. Text Filter\bin\Debug\netcoreapp3.1\4. Text Filter.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\4. Text Filter\bin\Debug\netcoreapp3.1\4. Text Filter.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\4. Text Filter\bin\Debug\netcoreapp3.1\4. Text Filter.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\4. Text Filter\bin\Debug\netcoreapp3.1\4. Text Filter.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\4. Text Filter\bin\Debug\netcoreapp3.1\4. Text Filter.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\4. Text Filter\bin\Debug\netcoreapp3.1\4. Text Filter.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\4. Text Filter\obj\Debug\netcoreapp3.1\4. Text Filter.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\4. Text Filter\obj\Debug\netcoreapp3.1\4. Text Filter.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\4. Text Filter\obj\Debug\netcoreapp3.1\4. Text Filter.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\4. Text Filter\obj\Debug\netcoreapp3.1\4. Text Filter.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\4. Text Filter\obj\Debug\netcoreapp3.1\4. Text Filter.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\4. Text Filter\obj\Debug\netcoreapp3.1\4. Text Filter.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\4. Text Filter\obj\Debug\netcoreapp3.1\4. Text Filter.genruntimeconfig.cache

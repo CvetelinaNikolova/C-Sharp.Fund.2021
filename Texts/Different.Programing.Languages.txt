@@ -1,0 +1,77 @@
+1.JavaScript
+What this language is used for: 
+
+Web development
+Game development
+Mobile apps 
+Building web servers
+
+2. Python
+What this language is used for:
+
+Back end development 
+Data science 
+App development
+
+3.HTML
+What this language is used for: 
+
+Web documents 
+Website development 
+Website maintenance
+
+4. CSS
+What this language is used for: 
+
+Web documents 
+Website development 
+Website design
+
+5. Java
+What this language is used for: 
+
+E-commerce 
+Finance
+App development
+
+6. SQL
+What this language is used for: 
+
+Database management 
+Sales reports 
+Business management
+
+7. NoSQL
+What this language is used for: 
+
+Database management 
+Sales reports 
+Business management
+
+8. C#
+What this language is used for: 
+
+Game development
+Desktop/web/mobile apps 
+VR
+
+9. Rust 
+What this language is used for:
+
+Operating systems 
+VR 
+Web browsers
+
+10. Perl
+What this language is used for:
+
+System administration 
+GUI development 
+Network programming
+
+11. Go
+What this language is used for:
+
+System/network programming 
+Audio/video editing 
+Big Data

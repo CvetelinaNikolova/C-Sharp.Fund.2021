@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\5. Digits, Letters and Other\bin\Debug\netcoreapp3.1\5. Digits, Letters and Other.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\5. Digits, Letters and Other\bin\Debug\netcoreapp3.1\5. Digits, Letters and Other.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\5. Digits, Letters and Other\bin\Debug\netcoreapp3.1\5. Digits, Letters and Other.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\5. Digits, Letters and Other\bin\Debug\netcoreapp3.1\5. Digits, Letters and Other.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\5. Digits, Letters and Other\bin\Debug\netcoreapp3.1\5. Digits, Letters and Other.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\5. Digits, Letters and Other\bin\Debug\netcoreapp3.1\5. Digits, Letters and Other.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\5. Digits, Letters and Other\obj\Debug\netcoreapp3.1\5. Digits, Letters and Other.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\5. Digits, Letters and Other\obj\Debug\netcoreapp3.1\5. Digits, Letters and Other.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\5. Digits, Letters and Other\obj\Debug\netcoreapp3.1\5. Digits, Letters and Other.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\5. Digits, Letters and Other\obj\Debug\netcoreapp3.1\5. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\5. Digits, Letters and Other\obj\Debug\netcoreapp3.1\5. Digits, Letters and Other.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\5. Digits, Letters and Other\obj\Debug\netcoreapp3.1\5. Digits, Letters and Other.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\5. Digits, Letters and Other\obj\Debug\netcoreapp3.1\5. Digits, Letters and Other.genruntimeconfig.cache

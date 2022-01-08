@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\01.TheHuntingGames\bin\Debug\netcoreapp3.1\01.TheHuntingGames.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\01.TheHuntingGames\bin\Debug\netcoreapp3.1\01.TheHuntingGames.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\01.TheHuntingGames\bin\Debug\netcoreapp3.1\01.TheHuntingGames.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\01.TheHuntingGames\bin\Debug\netcoreapp3.1\01.TheHuntingGames.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\01.TheHuntingGames\bin\Debug\netcoreapp3.1\01.TheHuntingGames.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\01.TheHuntingGames\bin\Debug\netcoreapp3.1\01.TheHuntingGames.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.genruntimeconfig.cache

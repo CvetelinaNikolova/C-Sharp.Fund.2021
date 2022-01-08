@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\3.TheAngryCat\bin\Debug\netcoreapp3.1\3.TheAngryCat.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\3.TheAngryCat\bin\Debug\netcoreapp3.1\3.TheAngryCat.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\3.TheAngryCat\bin\Debug\netcoreapp3.1\3.TheAngryCat.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\3.TheAngryCat\bin\Debug\netcoreapp3.1\3.TheAngryCat.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\3.TheAngryCat\bin\Debug\netcoreapp3.1\3.TheAngryCat.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\3.TheAngryCat\bin\Debug\netcoreapp3.1\3.TheAngryCat.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\3.TheAngryCat\obj\Debug\netcoreapp3.1\3.TheAngryCat.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\3.TheAngryCat\obj\Debug\netcoreapp3.1\3.TheAngryCat.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\3.TheAngryCat\obj\Debug\netcoreapp3.1\3.TheAngryCat.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\3.TheAngryCat\obj\Debug\netcoreapp3.1\3.TheAngryCat.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\3.TheAngryCat\obj\Debug\netcoreapp3.1\3.TheAngryCat.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\3.TheAngryCat\obj\Debug\netcoreapp3.1\3.TheAngryCat.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\3.TheAngryCat\obj\Debug\netcoreapp3.1\3.TheAngryCat.genruntimeconfig.cache

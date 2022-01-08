@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\6. Balanced Brackets\bin\Debug\netcoreapp3.1\6. Balanced Brackets.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\6. Balanced Brackets\bin\Debug\netcoreapp3.1\6. Balanced Brackets.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\6. Balanced Brackets\bin\Debug\netcoreapp3.1\6. Balanced Brackets.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\6. Balanced Brackets\bin\Debug\netcoreapp3.1\6. Balanced Brackets.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\6. Balanced Brackets\bin\Debug\netcoreapp3.1\6. Balanced Brackets.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\6. Balanced Brackets\bin\Debug\netcoreapp3.1\6. Balanced Brackets.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.genruntimeconfig.cache

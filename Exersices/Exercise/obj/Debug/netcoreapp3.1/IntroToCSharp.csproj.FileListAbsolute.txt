@@ -1,0 +1,13 @@
+E:\Projects.C#\Exercise\Exercise\bin\Debug\netcoreapp3.1\IntroToCSharp.exe
+E:\Projects.C#\Exercise\Exercise\bin\Debug\netcoreapp3.1\IntroToCSharp.deps.json
+E:\Projects.C#\Exercise\Exercise\bin\Debug\netcoreapp3.1\IntroToCSharp.runtimeconfig.json
+E:\Projects.C#\Exercise\Exercise\bin\Debug\netcoreapp3.1\IntroToCSharp.runtimeconfig.dev.json
+E:\Projects.C#\Exercise\Exercise\bin\Debug\netcoreapp3.1\IntroToCSharp.dll
+E:\Projects.C#\Exercise\Exercise\bin\Debug\netcoreapp3.1\IntroToCSharp.pdb
+E:\Projects.C#\Exercise\Exercise\obj\Debug\netcoreapp3.1\IntroToCSharp.AssemblyInfoInputs.cache
+E:\Projects.C#\Exercise\Exercise\obj\Debug\netcoreapp3.1\IntroToCSharp.AssemblyInfo.cs
+E:\Projects.C#\Exercise\Exercise\obj\Debug\netcoreapp3.1\IntroToCSharp.csproj.CoreCompileInputs.cache
+E:\Projects.C#\Exercise\Exercise\obj\Debug\netcoreapp3.1\IntroToCSharp.dll
+E:\Projects.C#\Exercise\Exercise\obj\Debug\netcoreapp3.1\IntroToCSharp.pdb
+E:\Projects.C#\Exercise\Exercise\obj\Debug\netcoreapp3.1\IntroToCSharp.genruntimeconfig.cache
+E:\Projects.C#\Exercise\Exercise\obj\Debug\netcoreapp3.1\IntroToCSharp.csproj.AssemblyReference.cache

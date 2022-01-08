@@ -1,0 +1,13 @@
+E:\Projects.C#\Exercises\FirstLecture\WorkHere\bin\Debug\netcoreapp3.1\WorkHere.exe
+E:\Projects.C#\Exercises\FirstLecture\WorkHere\bin\Debug\netcoreapp3.1\WorkHere.deps.json
+E:\Projects.C#\Exercises\FirstLecture\WorkHere\bin\Debug\netcoreapp3.1\WorkHere.runtimeconfig.json
+E:\Projects.C#\Exercises\FirstLecture\WorkHere\bin\Debug\netcoreapp3.1\WorkHere.runtimeconfig.dev.json
+E:\Projects.C#\Exercises\FirstLecture\WorkHere\bin\Debug\netcoreapp3.1\WorkHere.dll
+E:\Projects.C#\Exercises\FirstLecture\WorkHere\bin\Debug\netcoreapp3.1\WorkHere.pdb
+E:\Projects.C#\Exercises\FirstLecture\WorkHere\obj\Debug\netcoreapp3.1\WorkHere.AssemblyInfoInputs.cache
+E:\Projects.C#\Exercises\FirstLecture\WorkHere\obj\Debug\netcoreapp3.1\WorkHere.AssemblyInfo.cs
+E:\Projects.C#\Exercises\FirstLecture\WorkHere\obj\Debug\netcoreapp3.1\WorkHere.csproj.CoreCompileInputs.cache
+E:\Projects.C#\Exercises\FirstLecture\WorkHere\obj\Debug\netcoreapp3.1\WorkHere.dll
+E:\Projects.C#\Exercises\FirstLecture\WorkHere\obj\Debug\netcoreapp3.1\WorkHere.pdb
+E:\Projects.C#\Exercises\FirstLecture\WorkHere\obj\Debug\netcoreapp3.1\WorkHere.genruntimeconfig.cache
+E:\Projects.C#\Exercises\FirstLecture\WorkHere\obj\Debug\netcoreapp3.1\WorkHere.csproj.AssemblyReference.cache

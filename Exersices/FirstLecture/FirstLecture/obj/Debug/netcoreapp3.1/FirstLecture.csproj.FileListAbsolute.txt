@@ -1,0 +1,13 @@
+E:\Projects.C#\Exercises\FirstLecture\FirstLecture\bin\Debug\netcoreapp3.1\FirstLecture.exe
+E:\Projects.C#\Exercises\FirstLecture\FirstLecture\bin\Debug\netcoreapp3.1\FirstLecture.deps.json
+E:\Projects.C#\Exercises\FirstLecture\FirstLecture\bin\Debug\netcoreapp3.1\FirstLecture.runtimeconfig.json
+E:\Projects.C#\Exercises\FirstLecture\FirstLecture\bin\Debug\netcoreapp3.1\FirstLecture.runtimeconfig.dev.json
+E:\Projects.C#\Exercises\FirstLecture\FirstLecture\bin\Debug\netcoreapp3.1\FirstLecture.dll
+E:\Projects.C#\Exercises\FirstLecture\FirstLecture\bin\Debug\netcoreapp3.1\FirstLecture.pdb
+E:\Projects.C#\Exercises\FirstLecture\FirstLecture\obj\Debug\netcoreapp3.1\FirstLecture.csproj.AssemblyReference.cache
+E:\Projects.C#\Exercises\FirstLecture\FirstLecture\obj\Debug\netcoreapp3.1\FirstLecture.AssemblyInfoInputs.cache
+E:\Projects.C#\Exercises\FirstLecture\FirstLecture\obj\Debug\netcoreapp3.1\FirstLecture.AssemblyInfo.cs
+E:\Projects.C#\Exercises\FirstLecture\FirstLecture\obj\Debug\netcoreapp3.1\FirstLecture.csproj.CoreCompileInputs.cache
+E:\Projects.C#\Exercises\FirstLecture\FirstLecture\obj\Debug\netcoreapp3.1\FirstLecture.dll
+E:\Projects.C#\Exercises\FirstLecture\FirstLecture\obj\Debug\netcoreapp3.1\FirstLecture.pdb
+E:\Projects.C#\Exercises\FirstLecture\FirstLecture\obj\Debug\netcoreapp3.1\FirstLecture.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\!.Hogwards\bin\Debug\netcoreapp3.1\!.Hogwards.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\!.Hogwards\bin\Debug\netcoreapp3.1\!.Hogwards.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\!.Hogwards\bin\Debug\netcoreapp3.1\!.Hogwards.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\!.Hogwards\bin\Debug\netcoreapp3.1\!.Hogwards.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\!.Hogwards\bin\Debug\netcoreapp3.1\!.Hogwards.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\!.Hogwards\bin\Debug\netcoreapp3.1\!.Hogwards.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\!.Hogwards\obj\Debug\netcoreapp3.1\!.Hogwards.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\!.Hogwards\obj\Debug\netcoreapp3.1\!.Hogwards.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\!.Hogwards\obj\Debug\netcoreapp3.1\!.Hogwards.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\!.Hogwards\obj\Debug\netcoreapp3.1\!.Hogwards.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\!.Hogwards\obj\Debug\netcoreapp3.1\!.Hogwards.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\!.Hogwards\obj\Debug\netcoreapp3.1\!.Hogwards.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\FinalExam\!.Hogwards\obj\Debug\netcoreapp3.1\!.Hogwards.genruntimeconfig.cache

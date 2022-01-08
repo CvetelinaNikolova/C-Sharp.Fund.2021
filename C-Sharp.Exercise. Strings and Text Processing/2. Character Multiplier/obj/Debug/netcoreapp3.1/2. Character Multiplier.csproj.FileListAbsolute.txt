@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\2. Character Multiplier\bin\Debug\netcoreapp3.1\2. Character Multiplier.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\2. Character Multiplier\bin\Debug\netcoreapp3.1\2. Character Multiplier.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\2. Character Multiplier\bin\Debug\netcoreapp3.1\2. Character Multiplier.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\2. Character Multiplier\bin\Debug\netcoreapp3.1\2. Character Multiplier.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\2. Character Multiplier\bin\Debug\netcoreapp3.1\2. Character Multiplier.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\2. Character Multiplier\bin\Debug\netcoreapp3.1\2. Character Multiplier.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\2. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\2. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\2. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\2. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\2. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\2. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\2. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.genruntimeconfig.cache

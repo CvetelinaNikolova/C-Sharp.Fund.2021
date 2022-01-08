@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\3. Songs\bin\Debug\netcoreapp3.1\3. Songs.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\3. Songs\bin\Debug\netcoreapp3.1\3. Songs.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\3. Songs\bin\Debug\netcoreapp3.1\3. Songs.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\3. Songs\bin\Debug\netcoreapp3.1\3. Songs.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\3. Songs\bin\Debug\netcoreapp3.1\3. Songs.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\3. Songs\bin\Debug\netcoreapp3.1\3. Songs.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\3. Songs\obj\Debug\netcoreapp3.1\3. Songs.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\3. Songs\obj\Debug\netcoreapp3.1\3. Songs.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\3. Songs\obj\Debug\netcoreapp3.1\3. Songs.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\3. Songs\obj\Debug\netcoreapp3.1\3. Songs.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\3. Songs\obj\Debug\netcoreapp3.1\3. Songs.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\3. Songs\obj\Debug\netcoreapp3.1\3. Songs.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\3. Songs\obj\Debug\netcoreapp3.1\3. Songs.genruntimeconfig.cache

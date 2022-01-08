@@ -1,0 +1,13 @@
+E:\Projects.C#\Exercises\FirstLecture\Task\bin\Debug\netcoreapp3.1\Task.exe
+E:\Projects.C#\Exercises\FirstLecture\Task\bin\Debug\netcoreapp3.1\Task.deps.json
+E:\Projects.C#\Exercises\FirstLecture\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.json
+E:\Projects.C#\Exercises\FirstLecture\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.dev.json
+E:\Projects.C#\Exercises\FirstLecture\Task\bin\Debug\netcoreapp3.1\Task.dll
+E:\Projects.C#\Exercises\FirstLecture\Task\bin\Debug\netcoreapp3.1\Task.pdb
+E:\Projects.C#\Exercises\FirstLecture\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfoInputs.cache
+E:\Projects.C#\Exercises\FirstLecture\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfo.cs
+E:\Projects.C#\Exercises\FirstLecture\Task\obj\Debug\netcoreapp3.1\Task.csproj.CoreCompileInputs.cache
+E:\Projects.C#\Exercises\FirstLecture\Task\obj\Debug\netcoreapp3.1\Task.dll
+E:\Projects.C#\Exercises\FirstLecture\Task\obj\Debug\netcoreapp3.1\Task.pdb
+E:\Projects.C#\Exercises\FirstLecture\Task\obj\Debug\netcoreapp3.1\Task.genruntimeconfig.cache
+E:\Projects.C#\Exercises\FirstLecture\Task\obj\Debug\netcoreapp3.1\Task.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\2.FromLeftToRight\bin\Debug\netcoreapp3.1\2.FromLeftToRight.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\2.FromLeftToRight\bin\Debug\netcoreapp3.1\2.FromLeftToRight.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\2.FromLeftToRight\bin\Debug\netcoreapp3.1\2.FromLeftToRight.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\2.FromLeftToRight\bin\Debug\netcoreapp3.1\2.FromLeftToRight.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\2.FromLeftToRight\bin\Debug\netcoreapp3.1\2.FromLeftToRight.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\2.FromLeftToRight\bin\Debug\netcoreapp3.1\2.FromLeftToRight.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\2.FromLeftToRight\obj\Debug\netcoreapp3.1\2.FromLeftToRight.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\2.FromLeftToRight\obj\Debug\netcoreapp3.1\2.FromLeftToRight.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\2.FromLeftToRight\obj\Debug\netcoreapp3.1\2.FromLeftToRight.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\2.FromLeftToRight\obj\Debug\netcoreapp3.1\2.FromLeftToRight.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\2.FromLeftToRight\obj\Debug\netcoreapp3.1\2.FromLeftToRight.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\2.FromLeftToRight\obj\Debug\netcoreapp3.1\2.FromLeftToRight.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\2.FromLeftToRight\obj\Debug\netcoreapp3.1\2.FromLeftToRight.genruntimeconfig.cache

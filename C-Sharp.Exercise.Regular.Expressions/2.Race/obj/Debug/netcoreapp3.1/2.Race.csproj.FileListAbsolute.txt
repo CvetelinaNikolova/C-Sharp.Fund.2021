@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\2.Race\bin\Debug\netcoreapp3.1\2.Race.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\2.Race\bin\Debug\netcoreapp3.1\2.Race.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\2.Race\bin\Debug\netcoreapp3.1\2.Race.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\2.Race\bin\Debug\netcoreapp3.1\2.Race.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\2.Race\bin\Debug\netcoreapp3.1\2.Race.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\2.Race\bin\Debug\netcoreapp3.1\2.Race.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\2.Race\obj\Debug\netcoreapp3.1\2.Race.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\2.Race\obj\Debug\netcoreapp3.1\2.Race.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\2.Race\obj\Debug\netcoreapp3.1\2.Race.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\2.Race\obj\Debug\netcoreapp3.1\2.Race.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\2.Race\obj\Debug\netcoreapp3.1\2.Race.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\2.Race\obj\Debug\netcoreapp3.1\2.Race.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\2.Race\obj\Debug\netcoreapp3.1\2.Race.genruntimeconfig.cache

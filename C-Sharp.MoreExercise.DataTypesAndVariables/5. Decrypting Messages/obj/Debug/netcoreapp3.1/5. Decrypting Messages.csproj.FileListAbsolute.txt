@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\5. Decrypting Messages\bin\Debug\netcoreapp3.1\5. Decrypting Messages.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\5. Decrypting Messages\bin\Debug\netcoreapp3.1\5. Decrypting Messages.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\5. Decrypting Messages\bin\Debug\netcoreapp3.1\5. Decrypting Messages.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\5. Decrypting Messages\bin\Debug\netcoreapp3.1\5. Decrypting Messages.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\5. Decrypting Messages\bin\Debug\netcoreapp3.1\5. Decrypting Messages.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\5. Decrypting Messages\bin\Debug\netcoreapp3.1\5. Decrypting Messages.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\5. Decrypting Messages\obj\Debug\netcoreapp3.1\5. Decrypting Messages.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\5. Decrypting Messages\obj\Debug\netcoreapp3.1\5. Decrypting Messages.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\5. Decrypting Messages\obj\Debug\netcoreapp3.1\5. Decrypting Messages.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\5. Decrypting Messages\obj\Debug\netcoreapp3.1\5. Decrypting Messages.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\5. Decrypting Messages\obj\Debug\netcoreapp3.1\5. Decrypting Messages.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\5. Decrypting Messages\obj\Debug\netcoreapp3.1\5. Decrypting Messages.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\5. Decrypting Messages\obj\Debug\netcoreapp3.1\5. Decrypting Messages.genruntimeconfig.cache

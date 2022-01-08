@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\2.Numbers\bin\Debug\netcoreapp3.1\2.Numbers.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\2.Numbers\bin\Debug\netcoreapp3.1\2.Numbers.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\2.Numbers\bin\Debug\netcoreapp3.1\2.Numbers.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\2.Numbers\bin\Debug\netcoreapp3.1\2.Numbers.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\2.Numbers\bin\Debug\netcoreapp3.1\2.Numbers.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\2.Numbers\bin\Debug\netcoreapp3.1\2.Numbers.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\2.Numbers\obj\Debug\netcoreapp3.1\2.Numbers.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\2.Numbers\obj\Debug\netcoreapp3.1\2.Numbers.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\2.Numbers\obj\Debug\netcoreapp3.1\2.Numbers.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\2.Numbers\obj\Debug\netcoreapp3.1\2.Numbers.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\2.Numbers\obj\Debug\netcoreapp3.1\2.Numbers.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\2.Numbers\obj\Debug\netcoreapp3.1\2.Numbers.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Mid.Exam\2.Numbers\obj\Debug\netcoreapp3.1\2.Numbers.genruntimeconfig.cache

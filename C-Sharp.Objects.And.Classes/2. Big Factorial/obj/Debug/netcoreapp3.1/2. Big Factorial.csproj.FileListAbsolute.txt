@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\2. Big Factorial\bin\Debug\netcoreapp3.1\2. Big Factorial.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\2. Big Factorial\bin\Debug\netcoreapp3.1\2. Big Factorial.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\2. Big Factorial\bin\Debug\netcoreapp3.1\2. Big Factorial.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\2. Big Factorial\bin\Debug\netcoreapp3.1\2. Big Factorial.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\2. Big Factorial\bin\Debug\netcoreapp3.1\2. Big Factorial.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\2. Big Factorial\bin\Debug\netcoreapp3.1\2. Big Factorial.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Objects.And.Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.genruntimeconfig.cache

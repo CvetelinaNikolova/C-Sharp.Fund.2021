@@ -1,0 +1,12 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\3. Extract File\bin\Debug\netcoreapp3.1\3. Extract File.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\3. Extract File\bin\Debug\netcoreapp3.1\3. Extract File.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\3. Extract File\bin\Debug\netcoreapp3.1\3. Extract File.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\3. Extract File\bin\Debug\netcoreapp3.1\3. Extract File.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\3. Extract File\bin\Debug\netcoreapp3.1\3. Extract File.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\3. Extract File\bin\Debug\netcoreapp3.1\3. Extract File.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\3. Extract File\obj\Debug\netcoreapp3.1\3. Extract File.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\3. Extract File\obj\Debug\netcoreapp3.1\3. Extract File.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\3. Extract File\obj\Debug\netcoreapp3.1\3. Extract File.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\3. Extract File\obj\Debug\netcoreapp3.1\3. Extract File.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\3. Extract File\obj\Debug\netcoreapp3.1\3. Extract File.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\3. Extract File\obj\Debug\netcoreapp3.1\3. Extract File.genruntimeconfig.cache

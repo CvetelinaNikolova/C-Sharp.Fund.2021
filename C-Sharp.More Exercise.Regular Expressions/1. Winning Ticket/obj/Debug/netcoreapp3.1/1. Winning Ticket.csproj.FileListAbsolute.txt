@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercise.Regular Expressions\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercise.Regular Expressions\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercise.Regular Expressions\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercise.Regular Expressions\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercise.Regular Expressions\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercise.Regular Expressions\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercise.Regular Expressions\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercise.Regular Expressions\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercise.Regular Expressions\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercise.Regular Expressions\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercise.Regular Expressions\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercise.Regular Expressions\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercise.Regular Expressions\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.genruntimeconfig.cache

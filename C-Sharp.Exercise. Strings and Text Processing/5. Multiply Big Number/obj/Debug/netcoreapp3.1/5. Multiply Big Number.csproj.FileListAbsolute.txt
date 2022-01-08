@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\5. Multiply Big Number\bin\Debug\netcoreapp3.1\5. Multiply Big Number.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\5. Multiply Big Number\bin\Debug\netcoreapp3.1\5. Multiply Big Number.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\5. Multiply Big Number\bin\Debug\netcoreapp3.1\5. Multiply Big Number.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\5. Multiply Big Number\bin\Debug\netcoreapp3.1\5. Multiply Big Number.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\5. Multiply Big Number\bin\Debug\netcoreapp3.1\5. Multiply Big Number.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\5. Multiply Big Number\bin\Debug\netcoreapp3.1\5. Multiply Big Number.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\5. Multiply Big Number\obj\Debug\netcoreapp3.1\5. Multiply Big Number.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\5. Multiply Big Number\obj\Debug\netcoreapp3.1\5. Multiply Big Number.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\5. Multiply Big Number\obj\Debug\netcoreapp3.1\5. Multiply Big Number.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\5. Multiply Big Number\obj\Debug\netcoreapp3.1\5. Multiply Big Number.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\5. Multiply Big Number\obj\Debug\netcoreapp3.1\5. Multiply Big Number.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\5. Multiply Big Number\obj\Debug\netcoreapp3.1\5. Multiply Big Number.genruntimeconfig.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\5. Multiply Big Number\obj\Debug\netcoreapp3.1\5. Multiply Big Number.csproj.AssemblyReference.cache

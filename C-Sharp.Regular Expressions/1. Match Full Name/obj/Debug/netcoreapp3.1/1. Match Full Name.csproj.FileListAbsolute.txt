@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Regular Expressions\1. Match Full Name\bin\Debug\netcoreapp3.1\1. Match Full Name.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Regular Expressions\1. Match Full Name\bin\Debug\netcoreapp3.1\1. Match Full Name.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Regular Expressions\1. Match Full Name\bin\Debug\netcoreapp3.1\1. Match Full Name.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Regular Expressions\1. Match Full Name\bin\Debug\netcoreapp3.1\1. Match Full Name.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Regular Expressions\1. Match Full Name\bin\Debug\netcoreapp3.1\1. Match Full Name.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Regular Expressions\1. Match Full Name\bin\Debug\netcoreapp3.1\1. Match Full Name.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Regular Expressions\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Regular Expressions\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Regular Expressions\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Regular Expressions\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Regular Expressions\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Regular Expressions\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Regular Expressions\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.genruntimeconfig.cache

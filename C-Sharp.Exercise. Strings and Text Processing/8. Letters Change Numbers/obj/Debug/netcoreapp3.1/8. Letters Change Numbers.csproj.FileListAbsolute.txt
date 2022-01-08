@@ -1,0 +1,12 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\8. Letters Change Numbers\bin\Debug\netcoreapp3.1\8. Letters Change Numbers.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\8. Letters Change Numbers\bin\Debug\netcoreapp3.1\8. Letters Change Numbers.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\8. Letters Change Numbers\bin\Debug\netcoreapp3.1\8. Letters Change Numbers.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\8. Letters Change Numbers\bin\Debug\netcoreapp3.1\8. Letters Change Numbers.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\8. Letters Change Numbers\bin\Debug\netcoreapp3.1\8. Letters Change Numbers.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\8. Letters Change Numbers\bin\Debug\netcoreapp3.1\8. Letters Change Numbers.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\8. Letters Change Numbers\obj\Debug\netcoreapp3.1\8. Letters Change Numbers.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\8. Letters Change Numbers\obj\Debug\netcoreapp3.1\8. Letters Change Numbers.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\8. Letters Change Numbers\obj\Debug\netcoreapp3.1\8. Letters Change Numbers.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\8. Letters Change Numbers\obj\Debug\netcoreapp3.1\8. Letters Change Numbers.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\8. Letters Change Numbers\obj\Debug\netcoreapp3.1\8. Letters Change Numbers.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\8. Letters Change Numbers\obj\Debug\netcoreapp3.1\8. Letters Change Numbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\4. Caesar Cipher\bin\Debug\netcoreapp3.1\4. Caesar Cipher.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\4. Caesar Cipher\bin\Debug\netcoreapp3.1\4. Caesar Cipher.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\4. Caesar Cipher\bin\Debug\netcoreapp3.1\4. Caesar Cipher.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\4. Caesar Cipher\bin\Debug\netcoreapp3.1\4. Caesar Cipher.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\4. Caesar Cipher\bin\Debug\netcoreapp3.1\4. Caesar Cipher.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\4. Caesar Cipher\bin\Debug\netcoreapp3.1\4. Caesar Cipher.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\4. Caesar Cipher\obj\Debug\netcoreapp3.1\4. Caesar Cipher.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\4. Caesar Cipher\obj\Debug\netcoreapp3.1\4. Caesar Cipher.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\4. Caesar Cipher\obj\Debug\netcoreapp3.1\4. Caesar Cipher.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\4. Caesar Cipher\obj\Debug\netcoreapp3.1\4. Caesar Cipher.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\4. Caesar Cipher\obj\Debug\netcoreapp3.1\4. Caesar Cipher.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\4. Caesar Cipher\obj\Debug\netcoreapp3.1\4. Caesar Cipher.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Strings and Text Processing\4. Caesar Cipher\obj\Debug\netcoreapp3.1\4. Caesar Cipher.genruntimeconfig.cache

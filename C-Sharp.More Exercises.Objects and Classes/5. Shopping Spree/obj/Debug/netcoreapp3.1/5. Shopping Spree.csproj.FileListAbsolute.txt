@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\5. Shopping Spree\bin\Debug\netcoreapp3.1\5. Shopping Spree.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\5. Shopping Spree\bin\Debug\netcoreapp3.1\5. Shopping Spree.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\5. Shopping Spree\bin\Debug\netcoreapp3.1\5. Shopping Spree.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\5. Shopping Spree\bin\Debug\netcoreapp3.1\5. Shopping Spree.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\5. Shopping Spree\bin\Debug\netcoreapp3.1\5. Shopping Spree.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\5. Shopping Spree\bin\Debug\netcoreapp3.1\5. Shopping Spree.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\5. Shopping Spree\obj\Debug\netcoreapp3.1\5. Shopping Spree.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\5. Shopping Spree\obj\Debug\netcoreapp3.1\5. Shopping Spree.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\5. Shopping Spree\obj\Debug\netcoreapp3.1\5. Shopping Spree.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\5. Shopping Spree\obj\Debug\netcoreapp3.1\5. Shopping Spree.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\5. Shopping Spree\obj\Debug\netcoreapp3.1\5. Shopping Spree.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\5. Shopping Spree\obj\Debug\netcoreapp3.1\5. Shopping Spree.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.More Exercises.Objects and Classes\5. Shopping Spree\obj\Debug\netcoreapp3.1\5. Shopping Spree.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\2. Repeat Strings\bin\Debug\netcoreapp3.1\2. Repeat Strings.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\2. Repeat Strings\bin\Debug\netcoreapp3.1\2. Repeat Strings.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\2. Repeat Strings\bin\Debug\netcoreapp3.1\2. Repeat Strings.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\2. Repeat Strings\bin\Debug\netcoreapp3.1\2. Repeat Strings.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\2. Repeat Strings\bin\Debug\netcoreapp3.1\2. Repeat Strings.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\2. Repeat Strings\bin\Debug\netcoreapp3.1\2. Repeat Strings.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\2. Repeat Strings\obj\Debug\netcoreapp3.1\2. Repeat Strings.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\2. Repeat Strings\obj\Debug\netcoreapp3.1\2. Repeat Strings.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\2. Repeat Strings\obj\Debug\netcoreapp3.1\2. Repeat Strings.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\2. Repeat Strings\obj\Debug\netcoreapp3.1\2. Repeat Strings.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\2. Repeat Strings\obj\Debug\netcoreapp3.1\2. Repeat Strings.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\2. Repeat Strings\obj\Debug\netcoreapp3.1\2. Repeat Strings.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Strings and Text Processing\2. Repeat Strings\obj\Debug\netcoreapp3.1\2. Repeat Strings.genruntimeconfig.cache

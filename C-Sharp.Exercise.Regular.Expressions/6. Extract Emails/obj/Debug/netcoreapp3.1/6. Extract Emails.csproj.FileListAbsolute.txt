@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\6. Extract Emails\bin\Debug\netcoreapp3.1\6. Extract Emails.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\6. Extract Emails\bin\Debug\netcoreapp3.1\6. Extract Emails.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\6. Extract Emails\bin\Debug\netcoreapp3.1\6. Extract Emails.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\6. Extract Emails\bin\Debug\netcoreapp3.1\6. Extract Emails.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\6. Extract Emails\bin\Debug\netcoreapp3.1\6. Extract Emails.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\6. Extract Emails\bin\Debug\netcoreapp3.1\6. Extract Emails.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\6. Extract Emails\obj\Debug\netcoreapp3.1\6. Extract Emails.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\6. Extract Emails\obj\Debug\netcoreapp3.1\6. Extract Emails.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\6. Extract Emails\obj\Debug\netcoreapp3.1\6. Extract Emails.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\6. Extract Emails\obj\Debug\netcoreapp3.1\6. Extract Emails.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\6. Extract Emails\obj\Debug\netcoreapp3.1\6. Extract Emails.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\6. Extract Emails\obj\Debug\netcoreapp3.1\6. Extract Emails.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\6. Extract Emails\obj\Debug\netcoreapp3.1\6. Extract Emails.genruntimeconfig.cache

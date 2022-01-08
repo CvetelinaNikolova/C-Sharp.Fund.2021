@@ -1,0 +1,12 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\7. Repeat String\bin\Debug\netcoreapp3.1\7. Repeat String.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\7. Repeat String\bin\Debug\netcoreapp3.1\7. Repeat String.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\7. Repeat String\bin\Debug\netcoreapp3.1\7. Repeat String.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\7. Repeat String\bin\Debug\netcoreapp3.1\7. Repeat String.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\7. Repeat String\bin\Debug\netcoreapp3.1\7. Repeat String.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\7. Repeat String\bin\Debug\netcoreapp3.1\7. Repeat String.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\7. Repeat String\obj\Debug\netcoreapp3.1\7. Repeat String.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\7. Repeat String\obj\Debug\netcoreapp3.1\7. Repeat String.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\7. Repeat String\obj\Debug\netcoreapp3.1\7. Repeat String.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\7. Repeat String\obj\Debug\netcoreapp3.1\7. Repeat String.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\7. Repeat String\obj\Debug\netcoreapp3.1\7. Repeat String.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\Methods\7. Repeat String\obj\Debug\netcoreapp3.1\7. Repeat String.genruntimeconfig.cache

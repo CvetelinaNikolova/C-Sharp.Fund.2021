@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\5. Nether Realms\bin\Debug\netcoreapp3.1\5. Nether Realms.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\5. Nether Realms\bin\Debug\netcoreapp3.1\5. Nether Realms.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\5. Nether Realms\bin\Debug\netcoreapp3.1\5. Nether Realms.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\5. Nether Realms\bin\Debug\netcoreapp3.1\5. Nether Realms.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\5. Nether Realms\bin\Debug\netcoreapp3.1\5. Nether Realms.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\5. Nether Realms\bin\Debug\netcoreapp3.1\5. Nether Realms.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\5. Nether Realms\obj\Debug\netcoreapp3.1\5. Nether Realms.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\5. Nether Realms\obj\Debug\netcoreapp3.1\5. Nether Realms.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\5. Nether Realms\obj\Debug\netcoreapp3.1\5. Nether Realms.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\5. Nether Realms\obj\Debug\netcoreapp3.1\5. Nether Realms.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\5. Nether Realms\obj\Debug\netcoreapp3.1\5. Nether Realms.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\5. Nether Realms\obj\Debug\netcoreapp3.1\5. Nether Realms.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\5. Nether Realms\obj\Debug\netcoreapp3.1\5. Nether Realms.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.DataTypesAndVariables\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.DataTypesAndVariables\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.DataTypesAndVariables\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.DataTypesAndVariables\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.DataTypesAndVariables\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.DataTypesAndVariables\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.DataTypesAndVariables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.DataTypesAndVariables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.DataTypesAndVariables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.DataTypesAndVariables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.DataTypesAndVariables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.DataTypesAndVariables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.genruntimeconfig.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.DataTypesAndVariables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\4.StarEnigma\bin\Debug\netcoreapp3.1\4.StarEnigma.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\4.StarEnigma\bin\Debug\netcoreapp3.1\4.StarEnigma.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\4.StarEnigma\bin\Debug\netcoreapp3.1\4.StarEnigma.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\4.StarEnigma\bin\Debug\netcoreapp3.1\4.StarEnigma.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\4.StarEnigma\bin\Debug\netcoreapp3.1\4.StarEnigma.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\4.StarEnigma\bin\Debug\netcoreapp3.1\4.StarEnigma.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\4.StarEnigma\obj\Debug\netcoreapp3.1\4.StarEnigma.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\4.StarEnigma\obj\Debug\netcoreapp3.1\4.StarEnigma.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\4.StarEnigma\obj\Debug\netcoreapp3.1\4.StarEnigma.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\4.StarEnigma\obj\Debug\netcoreapp3.1\4.StarEnigma.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\4.StarEnigma\obj\Debug\netcoreapp3.1\4.StarEnigma.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\4.StarEnigma\obj\Debug\netcoreapp3.1\4.StarEnigma.genruntimeconfig.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise.Regular.Expressions\4.StarEnigma\obj\Debug\netcoreapp3.1\4.StarEnigma.csproj.AssemblyReference.cache

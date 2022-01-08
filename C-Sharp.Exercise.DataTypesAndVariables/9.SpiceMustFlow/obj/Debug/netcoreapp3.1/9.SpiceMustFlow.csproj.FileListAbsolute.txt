@@ -1,0 +1,13 @@
+E:\Projects.C#\C-Sharp.Exercise.DataTypesAndVariables\9.SpiceMustFlow\bin\Debug\netcoreapp3.1\9.SpiceMustFlow.exe
+E:\Projects.C#\C-Sharp.Exercise.DataTypesAndVariables\9.SpiceMustFlow\bin\Debug\netcoreapp3.1\9.SpiceMustFlow.deps.json
+E:\Projects.C#\C-Sharp.Exercise.DataTypesAndVariables\9.SpiceMustFlow\bin\Debug\netcoreapp3.1\9.SpiceMustFlow.runtimeconfig.json
+E:\Projects.C#\C-Sharp.Exercise.DataTypesAndVariables\9.SpiceMustFlow\bin\Debug\netcoreapp3.1\9.SpiceMustFlow.runtimeconfig.dev.json
+E:\Projects.C#\C-Sharp.Exercise.DataTypesAndVariables\9.SpiceMustFlow\bin\Debug\netcoreapp3.1\9.SpiceMustFlow.dll
+E:\Projects.C#\C-Sharp.Exercise.DataTypesAndVariables\9.SpiceMustFlow\bin\Debug\netcoreapp3.1\9.SpiceMustFlow.pdb
+E:\Projects.C#\C-Sharp.Exercise.DataTypesAndVariables\9.SpiceMustFlow\obj\Debug\netcoreapp3.1\9.SpiceMustFlow.AssemblyInfoInputs.cache
+E:\Projects.C#\C-Sharp.Exercise.DataTypesAndVariables\9.SpiceMustFlow\obj\Debug\netcoreapp3.1\9.SpiceMustFlow.AssemblyInfo.cs
+E:\Projects.C#\C-Sharp.Exercise.DataTypesAndVariables\9.SpiceMustFlow\obj\Debug\netcoreapp3.1\9.SpiceMustFlow.csproj.CoreCompileInputs.cache
+E:\Projects.C#\C-Sharp.Exercise.DataTypesAndVariables\9.SpiceMustFlow\obj\Debug\netcoreapp3.1\9.SpiceMustFlow.dll
+E:\Projects.C#\C-Sharp.Exercise.DataTypesAndVariables\9.SpiceMustFlow\obj\Debug\netcoreapp3.1\9.SpiceMustFlow.pdb
+E:\Projects.C#\C-Sharp.Exercise.DataTypesAndVariables\9.SpiceMustFlow\obj\Debug\netcoreapp3.1\9.SpiceMustFlow.genruntimeconfig.cache
+E:\Projects.C#\C-Sharp.Exercise.DataTypesAndVariables\9.SpiceMustFlow\obj\Debug\netcoreapp3.1\9.SpiceMustFlow.csproj.AssemblyReference.cache

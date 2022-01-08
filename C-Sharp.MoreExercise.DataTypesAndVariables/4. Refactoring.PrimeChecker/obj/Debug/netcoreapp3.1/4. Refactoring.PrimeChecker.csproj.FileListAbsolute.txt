@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\4. Refactoring.PrimeChecker\bin\Debug\netcoreapp3.1\4. Refactoring.PrimeChecker.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\4. Refactoring.PrimeChecker\bin\Debug\netcoreapp3.1\4. Refactoring.PrimeChecker.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\4. Refactoring.PrimeChecker\bin\Debug\netcoreapp3.1\4. Refactoring.PrimeChecker.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\4. Refactoring.PrimeChecker\bin\Debug\netcoreapp3.1\4. Refactoring.PrimeChecker.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\4. Refactoring.PrimeChecker\bin\Debug\netcoreapp3.1\4. Refactoring.PrimeChecker.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\4. Refactoring.PrimeChecker\bin\Debug\netcoreapp3.1\4. Refactoring.PrimeChecker.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\4. Refactoring.PrimeChecker\obj\Debug\netcoreapp3.1\4. Refactoring.PrimeChecker.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\4. Refactoring.PrimeChecker\obj\Debug\netcoreapp3.1\4. Refactoring.PrimeChecker.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\4. Refactoring.PrimeChecker\obj\Debug\netcoreapp3.1\4. Refactoring.PrimeChecker.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\4. Refactoring.PrimeChecker\obj\Debug\netcoreapp3.1\4. Refactoring.PrimeChecker.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\4. Refactoring.PrimeChecker\obj\Debug\netcoreapp3.1\4. Refactoring.PrimeChecker.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\4. Refactoring.PrimeChecker\obj\Debug\netcoreapp3.1\4. Refactoring.PrimeChecker.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\MoreExercise.DataTypesAndVariables\4. Refactoring.PrimeChecker\obj\Debug\netcoreapp3.1\4. Refactoring.PrimeChecker.genruntimeconfig.cache
