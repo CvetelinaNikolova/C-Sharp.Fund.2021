@@ -1,0 +1,12 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\1. Count Chars in a String\bin\Debug\netcoreapp3.1\1. Count Chars in a String.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\1. Count Chars in a String\bin\Debug\netcoreapp3.1\1. Count Chars in a String.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\1. Count Chars in a String\bin\Debug\netcoreapp3.1\1. Count Chars in a String.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\1. Count Chars in a String\bin\Debug\netcoreapp3.1\1. Count Chars in a String.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\1. Count Chars in a String\bin\Debug\netcoreapp3.1\1. Count Chars in a String.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\1. Count Chars in a String\bin\Debug\netcoreapp3.1\1. Count Chars in a String.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.genruntimeconfig.cache

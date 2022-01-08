@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\2. A Miner Task\bin\Debug\netcoreapp3.1\2. A Miner Task.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\2. A Miner Task\bin\Debug\netcoreapp3.1\2. A Miner Task.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\2. A Miner Task\bin\Debug\netcoreapp3.1\2. A Miner Task.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\2. A Miner Task\bin\Debug\netcoreapp3.1\2. A Miner Task.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\2. A Miner Task\bin\Debug\netcoreapp3.1\2. A Miner Task.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\2. A Miner Task\bin\Debug\netcoreapp3.1\2. A Miner Task.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\2. A Miner Task\obj\Debug\netcoreapp3.1\2. A Miner Task.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\2. A Miner Task\obj\Debug\netcoreapp3.1\2. A Miner Task.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\2. A Miner Task\obj\Debug\netcoreapp3.1\2. A Miner Task.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\2. A Miner Task\obj\Debug\netcoreapp3.1\2. A Miner Task.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\2. A Miner Task\obj\Debug\netcoreapp3.1\2. A Miner Task.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\2. A Miner Task\obj\Debug\netcoreapp3.1\2. A Miner Task.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\2. A Miner Task\obj\Debug\netcoreapp3.1\2. A Miner Task.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\nikol\source\repos\C-Sharp.Fundamentals.Basic Syntax.Exercise\TryOut\bin\Debug\netcoreapp3.1\TryOut.exe
+C:\Users\nikol\source\repos\C-Sharp.Fundamentals.Basic Syntax.Exercise\TryOut\bin\Debug\netcoreapp3.1\TryOut.deps.json
+C:\Users\nikol\source\repos\C-Sharp.Fundamentals.Basic Syntax.Exercise\TryOut\bin\Debug\netcoreapp3.1\TryOut.runtimeconfig.json
+C:\Users\nikol\source\repos\C-Sharp.Fundamentals.Basic Syntax.Exercise\TryOut\bin\Debug\netcoreapp3.1\TryOut.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\C-Sharp.Fundamentals.Basic Syntax.Exercise\TryOut\bin\Debug\netcoreapp3.1\TryOut.dll
+C:\Users\nikol\source\repos\C-Sharp.Fundamentals.Basic Syntax.Exercise\TryOut\bin\Debug\netcoreapp3.1\TryOut.pdb
+C:\Users\nikol\source\repos\C-Sharp.Fundamentals.Basic Syntax.Exercise\TryOut\obj\Debug\netcoreapp3.1\TryOut.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\C-Sharp.Fundamentals.Basic Syntax.Exercise\TryOut\obj\Debug\netcoreapp3.1\TryOut.AssemblyInfo.cs
+C:\Users\nikol\source\repos\C-Sharp.Fundamentals.Basic Syntax.Exercise\TryOut\obj\Debug\netcoreapp3.1\TryOut.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\C-Sharp.Fundamentals.Basic Syntax.Exercise\TryOut\obj\Debug\netcoreapp3.1\TryOut.dll
+C:\Users\nikol\source\repos\C-Sharp.Fundamentals.Basic Syntax.Exercise\TryOut\obj\Debug\netcoreapp3.1\TryOut.pdb
+C:\Users\nikol\source\repos\C-Sharp.Fundamentals.Basic Syntax.Exercise\TryOut\obj\Debug\netcoreapp3.1\TryOut.genruntimeconfig.cache
+C:\Users\nikol\source\repos\C-Sharp.Fundamentals.Basic Syntax.Exercise\TryOut\obj\Debug\netcoreapp3.1\TryOut.csproj.AssemblyReference.cache

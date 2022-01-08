@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\10. SoftUni Exam Results\bin\Debug\netcoreapp3.1\10. SoftUni Exam Results.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\10. SoftUni Exam Results\bin\Debug\netcoreapp3.1\10. SoftUni Exam Results.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\10. SoftUni Exam Results\bin\Debug\netcoreapp3.1\10. SoftUni Exam Results.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\10. SoftUni Exam Results\bin\Debug\netcoreapp3.1\10. SoftUni Exam Results.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\10. SoftUni Exam Results\bin\Debug\netcoreapp3.1\10. SoftUni Exam Results.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\10. SoftUni Exam Results\bin\Debug\netcoreapp3.1\10. SoftUni Exam Results.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.genruntimeconfig.cache

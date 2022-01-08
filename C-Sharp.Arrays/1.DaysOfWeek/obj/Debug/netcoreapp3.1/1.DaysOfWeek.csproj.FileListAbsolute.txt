@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\1.DaysOfWeek\bin\Debug\netcoreapp3.1\1.DaysOfWeek.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\1.DaysOfWeek\bin\Debug\netcoreapp3.1\1.DaysOfWeek.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\1.DaysOfWeek\bin\Debug\netcoreapp3.1\1.DaysOfWeek.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\1.DaysOfWeek\bin\Debug\netcoreapp3.1\1.DaysOfWeek.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\1.DaysOfWeek\bin\Debug\netcoreapp3.1\1.DaysOfWeek.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\1.DaysOfWeek\bin\Debug\netcoreapp3.1\1.DaysOfWeek.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\1.DaysOfWeek\obj\Debug\netcoreapp3.1\1.DaysOfWeek.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\1.DaysOfWeek\obj\Debug\netcoreapp3.1\1.DaysOfWeek.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\1.DaysOfWeek\obj\Debug\netcoreapp3.1\1.DaysOfWeek.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\1.DaysOfWeek\obj\Debug\netcoreapp3.1\1.DaysOfWeek.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\1.DaysOfWeek\obj\Debug\netcoreapp3.1\1.DaysOfWeek.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\1.DaysOfWeek\obj\Debug\netcoreapp3.1\1.DaysOfWeek.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\1.DaysOfWeek\obj\Debug\netcoreapp3.1\1.DaysOfWeek.genruntimeconfig.cache

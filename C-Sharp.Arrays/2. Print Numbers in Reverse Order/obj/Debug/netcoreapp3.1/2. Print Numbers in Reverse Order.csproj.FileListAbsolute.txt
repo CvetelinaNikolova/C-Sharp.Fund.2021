@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\2. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\2. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\2. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\2. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\2. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\2. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.genruntimeconfig.cache

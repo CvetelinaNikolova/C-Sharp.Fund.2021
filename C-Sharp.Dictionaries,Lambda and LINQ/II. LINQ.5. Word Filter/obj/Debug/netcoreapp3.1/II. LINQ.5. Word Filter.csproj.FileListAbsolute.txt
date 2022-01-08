@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Dictionaries,Lambda and LINQ\II. LINQ.5. Word Filter\bin\Debug\netcoreapp3.1\II. LINQ.5. Word Filter.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Dictionaries,Lambda and LINQ\II. LINQ.5. Word Filter\bin\Debug\netcoreapp3.1\II. LINQ.5. Word Filter.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Dictionaries,Lambda and LINQ\II. LINQ.5. Word Filter\bin\Debug\netcoreapp3.1\II. LINQ.5. Word Filter.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Dictionaries,Lambda and LINQ\II. LINQ.5. Word Filter\bin\Debug\netcoreapp3.1\II. LINQ.5. Word Filter.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Dictionaries,Lambda and LINQ\II. LINQ.5. Word Filter\bin\Debug\netcoreapp3.1\II. LINQ.5. Word Filter.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Dictionaries,Lambda and LINQ\II. LINQ.5. Word Filter\bin\Debug\netcoreapp3.1\II. LINQ.5. Word Filter.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Dictionaries,Lambda and LINQ\II. LINQ.5. Word Filter\obj\Debug\netcoreapp3.1\II. LINQ.5. Word Filter.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Dictionaries,Lambda and LINQ\II. LINQ.5. Word Filter\obj\Debug\netcoreapp3.1\II. LINQ.5. Word Filter.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Dictionaries,Lambda and LINQ\II. LINQ.5. Word Filter\obj\Debug\netcoreapp3.1\II. LINQ.5. Word Filter.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Dictionaries,Lambda and LINQ\II. LINQ.5. Word Filter\obj\Debug\netcoreapp3.1\II. LINQ.5. Word Filter.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Dictionaries,Lambda and LINQ\II. LINQ.5. Word Filter\obj\Debug\netcoreapp3.1\II. LINQ.5. Word Filter.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Dictionaries,Lambda and LINQ\II. LINQ.5. Word Filter\obj\Debug\netcoreapp3.1\II. LINQ.5. Word Filter.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Dictionaries,Lambda and LINQ\II. LINQ.5. Word Filter\obj\Debug\netcoreapp3.1\II. LINQ.5. Word Filter.genruntimeconfig.cache

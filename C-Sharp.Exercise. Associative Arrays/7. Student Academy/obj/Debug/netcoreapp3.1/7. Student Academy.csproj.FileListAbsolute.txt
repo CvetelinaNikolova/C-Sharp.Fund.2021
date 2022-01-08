@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\7. Student Academy\bin\Debug\netcoreapp3.1\7. Student Academy.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\7. Student Academy\bin\Debug\netcoreapp3.1\7. Student Academy.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\7. Student Academy\bin\Debug\netcoreapp3.1\7. Student Academy.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\7. Student Academy\bin\Debug\netcoreapp3.1\7. Student Academy.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\7. Student Academy\bin\Debug\netcoreapp3.1\7. Student Academy.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\7. Student Academy\bin\Debug\netcoreapp3.1\7. Student Academy.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\7. Student Academy\obj\Debug\netcoreapp3.1\7. Student Academy.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\7. Student Academy\obj\Debug\netcoreapp3.1\7. Student Academy.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\7. Student Academy\obj\Debug\netcoreapp3.1\7. Student Academy.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\7. Student Academy\obj\Debug\netcoreapp3.1\7. Student Academy.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\7. Student Academy\obj\Debug\netcoreapp3.1\7. Student Academy.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\7. Student Academy\obj\Debug\netcoreapp3.1\7. Student Academy.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\7. Student Academy\obj\Debug\netcoreapp3.1\7. Student Academy.genruntimeconfig.cache

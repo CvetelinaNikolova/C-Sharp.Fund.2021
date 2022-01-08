@@ -1,0 +1,12 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\kk\bin\Debug\netcoreapp3.1\kk.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\kk\bin\Debug\netcoreapp3.1\kk.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\kk\bin\Debug\netcoreapp3.1\kk.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\kk\bin\Debug\netcoreapp3.1\kk.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\kk\bin\Debug\netcoreapp3.1\kk.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\kk\bin\Debug\netcoreapp3.1\kk.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\kk\obj\Debug\netcoreapp3.1\kk.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\kk\obj\Debug\netcoreapp3.1\kk.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\kk\obj\Debug\netcoreapp3.1\kk.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\kk\obj\Debug\netcoreapp3.1\kk.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\kk\obj\Debug\netcoreapp3.1\kk.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\kk\obj\Debug\netcoreapp3.1\kk.genruntimeconfig.cache

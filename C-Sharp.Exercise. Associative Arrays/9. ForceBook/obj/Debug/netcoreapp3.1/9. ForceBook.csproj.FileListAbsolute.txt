@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\9. ForceBook\bin\Debug\netcoreapp3.1\9. ForceBook.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\9. ForceBook\bin\Debug\netcoreapp3.1\9. ForceBook.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\9. ForceBook\bin\Debug\netcoreapp3.1\9. ForceBook.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\9. ForceBook\bin\Debug\netcoreapp3.1\9. ForceBook.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\9. ForceBook\bin\Debug\netcoreapp3.1\9. ForceBook.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\9. ForceBook\bin\Debug\netcoreapp3.1\9. ForceBook.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\9. ForceBook\obj\Debug\netcoreapp3.1\9. ForceBook.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\9. ForceBook\obj\Debug\netcoreapp3.1\9. ForceBook.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\9. ForceBook\obj\Debug\netcoreapp3.1\9. ForceBook.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\9. ForceBook\obj\Debug\netcoreapp3.1\9. ForceBook.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\9. ForceBook\obj\Debug\netcoreapp3.1\9. ForceBook.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\9. ForceBook\obj\Debug\netcoreapp3.1\9. ForceBook.genruntimeconfig.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\9. ForceBook\obj\Debug\netcoreapp3.1\9. ForceBook.csproj.AssemblyReference.cache

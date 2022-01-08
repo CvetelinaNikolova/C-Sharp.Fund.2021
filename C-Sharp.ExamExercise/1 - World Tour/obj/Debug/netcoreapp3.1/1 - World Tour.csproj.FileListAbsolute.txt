@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\1 - World Tour\bin\Debug\netcoreapp3.1\1 - World Tour.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\1 - World Tour\bin\Debug\netcoreapp3.1\1 - World Tour.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\1 - World Tour\bin\Debug\netcoreapp3.1\1 - World Tour.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\1 - World Tour\bin\Debug\netcoreapp3.1\1 - World Tour.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\1 - World Tour\bin\Debug\netcoreapp3.1\1 - World Tour.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\1 - World Tour\bin\Debug\netcoreapp3.1\1 - World Tour.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\1 - World Tour\obj\Debug\netcoreapp3.1\1 - World Tour.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\1 - World Tour\obj\Debug\netcoreapp3.1\1 - World Tour.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\1 - World Tour\obj\Debug\netcoreapp3.1\1 - World Tour.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\1 - World Tour\obj\Debug\netcoreapp3.1\1 - World Tour.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\1 - World Tour\obj\Debug\netcoreapp3.1\1 - World Tour.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\1 - World Tour\obj\Debug\netcoreapp3.1\1 - World Tour.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.ExamExercise\1 - World Tour\obj\Debug\netcoreapp3.1\1 - World Tour.genruntimeconfig.cache

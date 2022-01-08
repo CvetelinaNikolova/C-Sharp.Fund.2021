@@ -1,0 +1,13 @@
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.exe
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.deps.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.runtimeconfig.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.runtimeconfig.dev.json
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.csproj.AssemblyReference.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.AssemblyInfoInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.AssemblyInfo.cs
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.csproj.CoreCompileInputs.cache
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.dll
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.pdb
+E:\Education\SoftUniFundamentalsWithC-Sharp\C-Sharp.Exercise. Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.genruntimeconfig.cache
